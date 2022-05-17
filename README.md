@@ -1,4 +1,4 @@
-- # SOBRE MIM
+ # SOBRE MIM
 -   Oiii, eu sou a @GABIZINHA0011
 -  Estou interessada em aprender sobre programação 
 -  Procuro colaborar com meus professores e colegas para ter um melhor aprendizado
